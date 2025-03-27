@@ -1,7 +1,3 @@
-
-#Imprimir el Diccionario Final:
-
-#Imprime el diccionario resultante después de realizar todas las operaciones.}
 print(" ")
 print("******DICCIONARIO*******")
 print(" ")
