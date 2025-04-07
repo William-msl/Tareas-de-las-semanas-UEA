@@ -1,0 +1,6 @@
+linea 1: 1.-hoy tengo que estudiar para mi examen.
+linea 2: 2.-tengo muchas tareas que hacer :( 
+linea 3: 3.-en la tarde tengo que salir tambien.
+linea 4: Esta linea es nueva 
+linea 5: La linea 1 a la 3 son las notas antiguas.
+linea 6: las lineas 4 a la 6 son las nuevas usando el metodo write :D
